@@ -12,3 +12,35 @@ a. The driver: dotnet in this example. b. The command: new console in this examp
 5. dotnet build
 
 This will build your application
+
+6. Things i learnt abouut stateful and stateless-
+
+STATEFUL / INSTANCE
+        ↓
+Create object
+        ↓
+object.Method()
+
+Random dice = new();
+dice.Next();
+
+
+STATELESS / STATIC
+        ↓
+No object needed
+        ↓
+Class.Method()
+
+Console.WriteLine();
+
+
+### Stateful
+
+Random dice = new(); //a new instance
+
+dice.Next(1, 100); //methods
+
+
+### Stateless
+
+Console.WriteLine("Hi");
