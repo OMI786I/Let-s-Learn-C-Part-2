@@ -1,0 +1,15 @@
+D:\C# Projects\CsharpProjects\if-else\bin\Debug\net10.0\if-else.exe
+D:\C# Projects\CsharpProjects\if-else\bin\Debug\net10.0\if-else.deps.json
+D:\C# Projects\CsharpProjects\if-else\bin\Debug\net10.0\if-else.runtimeconfig.json
+D:\C# Projects\CsharpProjects\if-else\bin\Debug\net10.0\if-else.dll
+D:\C# Projects\CsharpProjects\if-else\bin\Debug\net10.0\if-else.pdb
+D:\C# Projects\CsharpProjects\if-else\obj\Debug\net10.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\CsharpProjects\if-else\obj\Debug\net10.0\if-else.AssemblyInfoInputs.cache
+D:\C# Projects\CsharpProjects\if-else\obj\Debug\net10.0\if-else.AssemblyInfo.cs
+D:\C# Projects\CsharpProjects\if-else\obj\Debug\net10.0\if-else.csproj.CoreCompileInputs.cache
+D:\C# Projects\CsharpProjects\if-else\obj\Debug\net10.0\if-else.sourcelink.json
+D:\C# Projects\CsharpProjects\if-else\obj\Debug\net10.0\if-else.dll
+D:\C# Projects\CsharpProjects\if-else\obj\Debug\net10.0\refint\if-else.dll
+D:\C# Projects\CsharpProjects\if-else\obj\Debug\net10.0\if-else.pdb
+D:\C# Projects\CsharpProjects\if-else\obj\Debug\net10.0\if-else.genruntimeconfig.cache
+D:\C# Projects\CsharpProjects\if-else\obj\Debug\net10.0\ref\if-else.dll
