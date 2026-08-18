@@ -33,3 +33,17 @@ foreach (string n in name)
 {
     Console.WriteLine(n);
 }
+
+
+
+int[] inventory = [1,4,5,6,9,10,8,7,6,5,4];
+int total = 0;
+int bin = 0;
+foreach (int i in inventory)
+
+{
+    total += i;
+    bin++;
+}
+
+Console.WriteLine($"Total: {total} and Bin: {bin}");
