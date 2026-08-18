@@ -26,6 +26,8 @@ Console.WriteLine($"Third: {fraudulentOrderIDs[2]}");
 */
 
 
+/*
+
 string[] name = ["Tahid", "Tariq", "Tarique"];
 
 foreach (string n in name)
@@ -47,3 +49,19 @@ foreach (int i in inventory)
 }
 
 Console.WriteLine($"Total: {total} and Bin: {bin}");
+
+*/
+
+//Exercise: Report the Order IDs that need further investigation (find order IDs that starts with "B")
+
+
+string[] elements = ["B123","C234","A345","C15","B177","G3003","C235","B179"];
+//int position = elements.Length-1;
+
+foreach(string i in elements)
+{
+    if (i.StartsWith("B"))
+    {
+        Console.WriteLine(i);
+    }
+}
