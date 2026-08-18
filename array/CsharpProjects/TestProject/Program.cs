@@ -56,12 +56,14 @@ Console.WriteLine($"Total: {total} and Bin: {bin}");
 
 
 string[] elements = ["B123","C234","A345","C15","B177","G3003","C235","B179"];
-//int position = elements.Length-1;
+
 
 foreach(string i in elements)
 {
     if (i.StartsWith("B"))
     {
         Console.WriteLine(i);
+        int index = Array.IndexOf(elements, i);
+        Console.WriteLine($"Index: {index}");
     }
 }
