@@ -1,0 +1,15 @@
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\bin\Debug\net10.0\exercise_if_else_foreach.exe
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\bin\Debug\net10.0\exercise_if_else_foreach.deps.json
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\bin\Debug\net10.0\exercise_if_else_foreach.runtimeconfig.json
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\bin\Debug\net10.0\exercise_if_else_foreach.dll
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\bin\Debug\net10.0\exercise_if_else_foreach.pdb
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\obj\Debug\net10.0\exercise_if_else_foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\obj\Debug\net10.0\exercise_if_else_foreach.AssemblyInfoInputs.cache
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\obj\Debug\net10.0\exercise_if_else_foreach.AssemblyInfo.cs
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\obj\Debug\net10.0\exercise_if_else_foreach.csproj.CoreCompileInputs.cache
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\obj\Debug\net10.0\exercise_if_else_foreach.sourcelink.json
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\obj\Debug\net10.0\exercise_if_else_foreach.dll
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\obj\Debug\net10.0\refint\exercise_if_else_foreach.dll
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\obj\Debug\net10.0\exercise_if_else_foreach.pdb
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\obj\Debug\net10.0\exercise_if_else_foreach.genruntimeconfig.cache
+D:\C# Projects\CsharpProjects\exercise_if_else_foreach\obj\Debug\net10.0\ref\exercise_if_else_foreach.dll
